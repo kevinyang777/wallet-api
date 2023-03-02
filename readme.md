@@ -1,5 +1,5 @@
 Installation and Setup
-1. Clone the repository: git clone https://github.com/kevinyang777/wallet-api
+1. Clone the repository: git clone https://github.com/kevinyang777/wallet-api.git
 2. Install dependencies: npm install
 3. Start the server: npm start
 
